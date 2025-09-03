@@ -16,6 +16,19 @@ A simple responsive Pokédex that:
 - Bootstrap 5.3
 
 ## Run locally
-```bash
-npm i
-npm run dev
+1. Clone the repository
+   ```bash
+   git clone https://github.com/ruzzidanali/jazro-pokemon-list.git
+   cd jazro-pokemon-list
+2. Install dependencies
+   ```bash
+   npm install
+3. Run the development server
+   ```bash
+   npm run dev
+4. Build for production
+   ```bash
+   npm run build
+5. Preview the production
+   ```bash
+   npm run preview
