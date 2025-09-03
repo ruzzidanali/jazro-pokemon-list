@@ -14,3 +14,8 @@ A simple responsive Pokédex that:
 - Pinia
 - Axios
 - Bootstrap 5.3
+
+## Run locally
+```bash
+npm i
+npm run dev
